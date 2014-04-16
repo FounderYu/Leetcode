@@ -1,6 +1,6 @@
 # Folders
-Leetcode.xcodeproj/*
-
+Leetcode.xcodeproj/
+Leetcode.xcodeproj/project.xcworkspace/
 # Compiled Object files
 *.slo
 *.lo
